@@ -1,4 +1,4 @@
-package Responsibilities;
+package ChainOfResponsibilities.Responsibilities;
 
 public abstract class PaymentHandler {
     protected PaymentHandler next;

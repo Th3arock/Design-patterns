@@ -1,4 +1,4 @@
-import Responsibilities.*;
+import ChainOfResponsibilities.Responsibilities.*;
 
 import java.util.Scanner;
 

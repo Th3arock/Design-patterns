@@ -1,4 +1,4 @@
-package Responsibilities;
+package ChainOfResponsibilities.Responsibilities;
 
 public class BigBankHandlerPayment extends PaymentHandler {
 

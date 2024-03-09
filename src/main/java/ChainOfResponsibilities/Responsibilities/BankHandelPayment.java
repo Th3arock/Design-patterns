@@ -1,4 +1,4 @@
-package Responsibilities;
+package ChainOfResponsibilities.Responsibilities;
 
 public class BankHandelPayment extends PaymentHandler {
     @Override
